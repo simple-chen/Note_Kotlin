@@ -1,1 +1,0 @@
-companion伴生对象
